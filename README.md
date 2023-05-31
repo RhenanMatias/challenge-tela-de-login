@@ -4,7 +4,7 @@ No desafio de hoje, você deve colocar em prática todo seu conhecimento adquiri
 
  Crie um repositório exclusivo para esta atividade, com o objetivo de gerar uma página utilizando o GitHub Pages para visualização e divulgação do seu desafio após concluído. Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub e nosso Blog - Git & GitHub sempre que precisar! 
 
-##### Desafio: 
+## Desafio: 
 
 Imagine que você é responsável por realizar o desenvolvimento de uma tela de login para a empresa de jogos MatrixGate. 
 
