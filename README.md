@@ -1,5 +1,3 @@
-# link: https://rhenanmatias.github.io/challenge-tela-de-login/
-
 # Tela de Login para o jogo MatrixGate
 
 No desafio de hoje, você deve colocar em prática todo seu conhecimento adquirido na seção 2.
@@ -18,3 +16,5 @@ Requisitos:
     Ter um link com o título: Esqueci minha senha. 
 
 Use e abuse da sua criatividade para entergar um resultado atraente e intuitivo. Ao final do desafio o layout pode se aproximar do resultado abaixo:
+
+### link: https://rhenanmatias.github.io/challenge-tela-de-login/
